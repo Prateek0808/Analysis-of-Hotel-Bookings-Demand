@@ -1,8 +1,5 @@
 ## Exploratory Data Analysis of Hotel Booking Demand Dataset
-***
-from IPython.display import Image
-Image(filename='pictures.jpg')
-
+****
 ## Objective:
 ***
 The main objective of this project is to explore data mining on hotel booking demands. This data analysis enabled us to see the comparison of both hotels (City and Resort) for a period of two  years.
